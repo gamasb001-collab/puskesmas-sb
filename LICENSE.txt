@@ -1,0 +1,18 @@
+LISENSI PERANGKAT LUNAK — PUSKESMAS DIGITAL
+Hak Cipta © Arraihan Academy. Seluruh hak dilindungi.
+
+1. Pemberian lisensi. Arraihan Academy ("Pemberi Lisensi") memberi Anda lisensi terbatas, non-eksklusif,
+   tidak dapat dipindahtangankan untuk menggunakan Puskesmas Digital pada SATU instansi (satu ID Instalasi),
+   selama masa lisensi pada kunci aktivasi Anda.
+2. Masa demo. Setiap instalasi baru mendapat masa demo 7 (tujuh) hari. Setelah itu aplikasi memerlukan
+   kunci aktivasi yang diterbitkan Pemberi Lisensi.
+3. Pembatasan. Anda tidak boleh: (a) menjual, menyewakan, atau mendistribusikan ulang aplikasi atau kunci;
+   (b) menghapus atau mengubah pemberitahuan hak cipta, kredit "Arraihan Academy", maupun mekanisme
+   demo/aktivasi; (c) menggunakan satu kunci untuk lebih dari satu instalasi.
+4. Kepemilikan. Kode sumber, desain, dan dokumentasi tetap milik Arraihan Academy.
+5. Tanpa jaminan. Perangkat lunak disediakan "apa adanya". Pemberi Lisensi tidak bertanggung jawab atas
+   kerugian akibat penggunaan, termasuk kehilangan data. Pengguna bertanggung jawab atas kepatuhan
+   pada ketentuan pelindungan data pribadi (data pasien) yang berlaku.
+6. Pengakhiran. Lisensi berakhir otomatis bila ketentuan ini dilanggar atau masa lisensi habis.
+
+Catatan: naskah ini adalah templat; mintalah penasihat hukum Anda meninjaunya sebelum dipakai secara komersial.
